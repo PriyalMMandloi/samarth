@@ -1,5 +1,4 @@
-streamlit
+streamlit==1.38.0
 pandas
 matplotlib
-sqlite3-bro
 openpyxl
